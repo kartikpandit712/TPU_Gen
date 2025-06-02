@@ -1,2 +1,2 @@
 # TPU_Gen
-This repo contains the framework to generate the TPU and their approximate versions, leveraging the Large Language Models.
+This repo contains the framework to generate the TPU and their approximate versions, leveraging the Large Language Models (LLMs).
